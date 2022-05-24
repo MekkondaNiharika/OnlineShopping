@@ -1,5 +1,5 @@
 package basics;
-
+//this is an employee class
 public class Employee
 {
 int id;
