@@ -1,7 +1,7 @@
 package basics;
 
 import java.util.*;
-
+// create dicegame class
 
 public class DiceGame {
 	
