@@ -2,6 +2,7 @@ package basics;
 
 public class IfElseIf
 {
+	// create main 
 public static void main(String[] args)
 {
 	int number=-13;
