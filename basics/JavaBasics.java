@@ -1,5 +1,5 @@
 package basics;
-
+//basic class
 public class JavaBasics 
 {
 	int id;
